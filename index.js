@@ -1,3 +1,3 @@
-const x ="trdttiitit"
+const x ="loveneet"
 
 module.exports={x}
