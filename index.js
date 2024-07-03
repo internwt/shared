@@ -1,3 +1,3 @@
-const x ="fffffffff" 
+const x ="test2" 
 
 module.exports={x}
